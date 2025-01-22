@@ -7,7 +7,7 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"github.vscode-github-actions",
+				"github.vscode-github-actions", 
 				"ms-vscode-remote.remote-containers",
 				"redhat.vscode-yaml",
 				"ms-azuretools.vscode-docker",
@@ -35,6 +35,9 @@
 				"GitHub.copilot-chat",
 				"GitHub.copilot",
 				"GitHub.codespaces"
+				"ms-python.python",
+    			"ms-toolsai.jupyter"
+				"ms-toolsai.datawrangler"
 			]
 		}
 	},
