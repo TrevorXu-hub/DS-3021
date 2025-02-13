@@ -32,5 +32,11 @@
     "accessibility.signals.diffLineModified": {
         "sound": "off"
     },
+<<<<<<< HEAD
     "remote.autoForwardPortsFallback": 0
+=======
+    "cSpell.words": [
+        "multicolinearity"
+    ]
+>>>>>>> upstream/main
 }
