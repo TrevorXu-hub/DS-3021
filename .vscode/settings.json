@@ -31,5 +31,6 @@
     },
     "accessibility.signals.diffLineModified": {
         "sound": "off"
-    }
+    },
+    "remote.autoForwardPortsFallback": 0
 }
